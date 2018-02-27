@@ -1,0 +1,1 @@
+create SEQUENCE carwash_user_id_seq start WITH 1 INCREMENT by 50;
